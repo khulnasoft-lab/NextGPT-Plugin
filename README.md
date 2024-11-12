@@ -1,6 +1,6 @@
 # NextGPT-Plugins
 
-This project stores [Plugins](https://github.com/khulnasoft/NextGPT/issues/5353) for [ChatGPT-Next-Web](https://github.com/khulnasoft/NextGPT)
+This project stores [Plugins](https://github.com/khulnasoft/NextGPT/issues/5353) for [NextGPT](https://github.com/khulnasoft/NextGPT)
 
 
 ## Design
